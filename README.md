@@ -1,5 +1,5 @@
 <div>
-    <img align="right" src="https://komarev.com/ghpvc/?username=bestrace103&label=Profile%20views&color=0e75b6&style=flat" alt="bestrace103" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=iGamingSolution103&label=Profile%20views&color=0e75b6&style=flat" alt="iGamingSolution103" />
 </div>
 <h1 align="center">Hi👋, I am a full stack developer with extensive experience</b></h1>
 
@@ -133,11 +133,11 @@
 </table>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bestrace103&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="100%" alt="@bestrace103's github-readme-streak-stats"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iGamingSolution103&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="100%" alt="@iGamingSolution103's github-readme-streak-stats"/>
 </p>
 
 <p align="center">
-    <img  height="156" src="https://github-readme-stats.vercel.app/api?username=bestrace103&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img  height="156" src="https://github-readme-stats.vercel.app/api?username=iGamingSolution103&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
